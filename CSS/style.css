@@ -1096,7 +1096,7 @@ header .container .shopping i
 {
    .TAbout .container
     { 
-        flex-direction: column;
+        flex-direction: reverse-column;
     }
 }
 .TAbout .container .img-box img
