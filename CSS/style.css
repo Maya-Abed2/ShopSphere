@@ -1092,6 +1092,13 @@ header .container .shopping i
     justify-content: space-between;
     align-items: center;
 }
+@media (max-width:767px)
+{
+   .TAbout .container
+    { 
+        flex-direction: column;
+    }
+}
 .TAbout .container .img-box img
 {
     max-width: 100%;
